@@ -1,0 +1,4 @@
+tabulate==0.8.2
+ipywidgets==7.4.2
+IPython==6.5.0
+ortools==6.7.4973
